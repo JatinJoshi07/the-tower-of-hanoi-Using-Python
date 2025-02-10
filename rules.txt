@@ -1,0 +1,3 @@
+1.Only one disk can be moved at a time.
+2.A disk can only be moved if it is the uppermost on rod.
+3.No disk msy be places on top of a samller disk
